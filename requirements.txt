@@ -1,0 +1,13 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+python-dotenv
+requests
+tqdm
+spacy
+beautifulsoup4
+markdown
+nltk
+spacy
+google.generativeai
